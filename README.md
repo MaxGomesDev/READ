@@ -10,6 +10,7 @@ Sou versátil e tenho enorme facilidade de adaptação (Full Stack Developer �
 ### 🧐 Mais sobre mim:
 
 - 🔭 &nbsp; Atualmente estou trabalhando no desenvolvimento de um aplicativo para mobile.
+- 👨‍💼 &nbsp; Estou no mercado á 6 anos.
 - ⚽ &nbsp; Gosto de praticar esportes no meu tempo livre.
 
 
